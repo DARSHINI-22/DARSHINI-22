@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Darshini 👋
 
-<!--
-**DARSHINI-22/DARSHINI-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
 
-Here are some ideas to get you started:
+- 💡 Interested in backend systems, cloud technologies, and AI-driven applications  
+- 🛠 Building structured and scalable applications using Java & Spring Boot  
+- 🌍 Exploring real-world problem solving through technology  
+- 📈 Focused on continuous learning and growth  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/darshini-k-b5138228b)  
+- 📧 darshinikumaran2005@gmail.com
