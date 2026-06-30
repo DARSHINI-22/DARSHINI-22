@@ -1,5 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dream.%20Build.%20Repeat.&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Darshini+%F0%9F%91%8B;Welcome+to+my+GitHub!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
-👋 Hi, I'm Darshini K, a Computer Science and Business Systems undergraduate at R.M.K. Engineering College .<br><br>💻 I'm passionate about building impactful software solutions, with a strong interest in Java Development, Artificial Intelligence, Spring Boot, and Cloud Computing.<br><br>🚀 I enjoy developing projects that solve real-world problems, from AI-powered placement platforms to accessibility applications like a Speech-to-Indian Sign Language Translator.<br><br>🌱 I'm currently improving my skills in Data Structures & Algorithms, Java, Spring Boot, and Japanese (JLPT N4) while continuously exploring new technologies.<br><br>🎯 My goal is to grow as a Software Engineer by building scalable, user-focused applications that create meaningful impact.
+🎓 A Computer Science and Business Systems undergraduate at R.M.K. Engineering College .<br><br>💻 I'm passionate about building impactful software solutions, with a strong interest in Java Development, Artificial Intelligence, Spring Boot, and Cloud Computing.<br><br>🚀 I enjoy developing projects that solve real-world problems, from AI-powered placement platforms to accessibility applications like a Speech-to-Indian Sign Language Translator.<br><br>🌱 I'm currently improving my skills in Data Structures & Algorithms, Java, Spring Boot, and Japanese (JLPT N4) while continuously exploring new technologies.<br><br>🎯 My goal is to grow as a Software Engineer by building scalable, user-focused applications that create meaningful impact.
 
 
 ## 🌐 Socials:
